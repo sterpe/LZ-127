@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/sterpe/LZ-127",
   "devDependencies": {
-    "babel-core": "^5.7.2",
-    "jest-cli": "^0.4.15"
+    "jest-cli": "^0.4.15",
+    "react-tools": "^0.13.3"
   },
   "jest": {
     "scriptPreprocessor": "<rootDir>/preprocessor.js",
